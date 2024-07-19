@@ -51,9 +51,11 @@ The project follows these steps:
 - **Jupyter Notebook**: Development environment.
 - **Streamlit**: Deployment of the application for interactive user interface.
 
-## Getting Started
+## Live Demo
 
-To get a local copy up and running, follow these simple steps:
+To see the Loan Prediction System in action, you can try out the live demo. Click the link below to interact with the application and test different loan application scenarios:
+
+[**Live Demo of Loan Prediction System**](https://loan-prediction-9lu3rck7u7ytz8wpzxgugv.streamlit.app/)
 
 ### Prerequisites
 
